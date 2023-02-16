@@ -1,6 +1,6 @@
 # 15-Days-of-Javascript
 
-![15 Days of Javascript](https://www.canva.com/design/DAFawcLy0nQ/mGLFHc546ry-feHSMMfUqA/view?utm_content=DAFawcLy0nQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![15 Days of Javascript](C:\Users\asad\Desktop\js.jpg)
 
 ## This is a complete Javascript Roadmap to make you a Complete Javascript Developer from  :writing_hand:  Basics To Advanced :rocket: in 15 Days :date:	
 
