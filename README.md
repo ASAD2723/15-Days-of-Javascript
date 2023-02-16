@@ -8,13 +8,13 @@
 
 ## Basic Variables
 
- :point_right: First Variable
- - [] Number Type
- - [] String Type
- - [] Boolean Type
- - [] Null and Undefined Type
- - [] Variable Comparison
- - [] Comments
+ :point_right:   First Variable
+  :point_right:   Number Type
+  :point_right:   String Type
+  :point_right:   Boolean Type
+  :point_right:   Null and Undefined Type
+  :point_right:   Variable Comparison
+  :point_right:   Comments
 
 
 
@@ -22,13 +22,13 @@
 
 ## Functions/Scoping:
 
- - [] Normal Functions
- - [] Passing Functions As Arguments
- - [] Arrow Functions
- - [] Stack Trace And Call Stack
- - [] Hoisting
- - [] Scoping
- - [] Closures
+  :point_right:   Normal Functions
+  :point_right:   Passing Functions As Arguments
+  :point_right:   Arrow Functions
+  :point_right:   Stack Trace And Call Stack
+  :point_right:   Hoisting
+  :point_right:   Scoping
+  :point_right:   Closures
 
 
 
@@ -36,17 +36,17 @@
 
 ## Advanced Variables:
 
- - [] Const
- - [] Var
- - [] Type Coercion
- - [] ==Vs===
- - [] NaN
- - [] Arrays
- - [] Objects
- - [] Reference Vs Value
- - [] Array Methods
- - [] String Template Literals
- - [] New And This
+  :point_right:   Const
+  :point_right:   Var
+  :point_right:   Type Coercion
+  :point_right:   ==Vs===
+  :point_right:   NaN
+  :point_right:   Arrays
+  :point_right:   Objects
+  :point_right:   Reference Vs Value
+  :point_right:   Array Methods
+  :point_right:   String Template Literals
+  :point_right:   New And This
 
 
 
@@ -54,18 +54,18 @@
 
 ## Basic DOM:
 
- - [] Async Vs Defer
- - [] Window
- - [] Document
- - [] Id and Class Selectors
- - [] Query Selectors
- - [] Event Listeners
- - [] Additional Differences between Arrow And Normal Functions
- - [] Data Attributes
- - [] DOM Traversal
- - [] Simple Todo LIst
- - [] Modal Introductions
- - [] Modal Walkthrough
+  :point_right:   Async Vs Defer
+  :point_right:   Window
+  :point_right:   Document
+  :point_right:   Id and Class Selectors
+  :point_right:   Query Selectors
+  :point_right:   Event Listeners
+  :point_right:   Additional Differences between Arrow And Normal Functions
+  :point_right:   Data Attributes
+  :point_right:   DOM Traversal
+  :point_right:   Simple Todo LIst
+  :point_right:   Modal Introductions
+  :point_right:   Modal Walkthrough
 
 
 
@@ -73,48 +73,48 @@
 
 ## Control Flow:
 
-- [] If
-- [] Ternary Operator
-- [] Switch Statement
-- [] For Loop
-- [] While Loop
-- [] Recursion
-- [] Short Circuit Evaluation
-- [] Midi Piano
-- [] Quiz App Introduction
-- [] Quiz App Walkthrough
-- [] Form Validation Introduction
-- [] Form Validation Walkthrough
+ :point_right:   If
+ :point_right:   Ternary Operator
+ :point_right:   Switch Statement
+ :point_right:   For Loop
+ :point_right:   While Loop
+ :point_right:   Recursion
+ :point_right:   Short Circuit Evaluation
+ :point_right:   Midi Piano
+ :point_right:   Quiz App Introduction
+ :point_right:   Quiz App Walkthrough
+ :point_right:   Form Validation Introduction
+ :point_right:   Form Validation Walkthrough
 
 
 # DAY 6 Asynchronous Code:
 
-- [] Callbacks
-- [] Promises
-- [] Async Await
+ :point_right:   Callbacks
+ :point_right:   Promises
+ :point_right:   Async Await
 
 
 
 # DAY 7 Advanced DOM:
 
-- [] Fetch
-- [] Event Loop
-- [] Event Delegation
-- [] Browser Storage
-- [] Advanced Todo List
-- [] Expand Collapse Introduction
-- [] Expand Collapse Walkthrough
-- [] Google Maps Clone
+ :point_right:   Fetch
+ :point_right:   Event Loop
+ :point_right:   Event Delegation
+ :point_right:   Browser Storage
+ :point_right:   Advanced Todo List
+ :point_right:   Expand Collapse Introduction
+ :point_right:   Expand Collapse Walkthrough
+ :point_right:   Google Maps Clone
 
 
 # DAY 8 Modules/Bundlers:
 
-- [] ES6 Modules
-- [] Node Modules
-- [] NPM
-- [] Parcel
-- [] Date Picker
-- [] Shopping Cart
+ :point_right:   ES6 Modules
+ :point_right:   Node Modules
+ :point_right:   NPM
+ :point_right:   Parcel
+ :point_right:   Date Picker
+ :point_right:   Shopping Cart
 
 
 
@@ -125,30 +125,30 @@
 
 # DAY 9 Advanced Features:
 
-- [] Destructuring
-- [] Spread And Rest Operator
-- [] Enhanced Objects Literals
-- [] Default Parameters
-- [] Null Coalescing
-- [] Optional Chaining
-- [] Maps
-- [] Sets
-- [] Symbols
-- [] Generators And Iterators
-- [] Object Getters And Setters
-- [] Bind
-- [] Call And Apply
-- [] Minesweeper Project
-- [] Math Solver Introduction
-- [] Math Solver Walkthrough
+ :point_right:   Destructuring
+ :point_right:   Spread And Rest Operator
+ :point_right:   Enhanced Objects Literals
+ :point_right:   Default Parameters
+ :point_right:   Null Coalescing
+ :point_right:   Optional Chaining
+ :point_right:   Maps
+ :point_right:   Sets
+ :point_right:   Symbols
+ :point_right:   Generators And Iterators
+ :point_right:   Object Getters And Setters
+ :point_right:   Bind
+ :point_right:   Call And Apply
+ :point_right:   Minesweeper Project
+ :point_right:   Math Solver Introduction
+ :point_right:   Math Solver Walkthrough
 
 
 # DAY 10 Using Future Javascript:
 
-- [] ES Updates
-- [] Polyfill
-- [] Transpile And Babel
-- [] Bundlers
+ :point_right:   ES Updates
+ :point_right:   Polyfill
+ :point_right:   Transpile And Babel
+ :point_right:   Bundlers
 
 
 
@@ -156,65 +156,65 @@
 
 # DAY 11 Object Oriented Programming:
 
-- [] Propotypes
-- [] Class Basics
-- [] Class Inheritance
-- [] Public, Private, And Protected Properties
-- [] ATM CLI Project
-- [] Calculator Project Introduction
-- [] Calculator Project Walkthrough
+ :point_right:   Propotypes
+ :point_right:   Class Basics
+ :point_right:   Class Inheritance
+ :point_right:   Public, Private, And Protected Properties
+ :point_right:   ATM CLI Project
+ :point_right:   Calculator Project Introduction
+ :point_right:   Calculator Project Walkthrough
 
 
 # DAY 12 Functional Programming:
 
-- [] What is Functional Programming
-- [] Pure Functions
-- [] Immutability
-- [] Higher Order Functions
-- [] Function Composition
-- [] Currying
-- [] Minesweeper Functional Programming Project
+ :point_right:   What is Functional Programming
+ :point_right:   Pure Functions
+ :point_right:   Immutability
+ :point_right:   Higher Order Functions
+ :point_right:   Function Composition
+ :point_right:   Currying
+ :point_right:   Minesweeper Functional Programming Project
 
 
 # DAY 13 Testing:
 
-- [] What is Testing And why is it important
-- [] Advanced Debugging
-- [] Jest Basics
-- [] Types of Tests
-- [] Unit Test Project
-- [] Integration Test Project
-- [] End to End Test Project
-- [] Test Driven Development
-- [] How to know what to Test
-- [] Jest with ES6 Modules
-- [] Math Solver Test Walkthrough
-- [] Minesweeper Test Introduction
-- [] Minesweeper Test Walkthrough
+ :point_right:   What is Testing And why is it important
+ :point_right:   Advanced Debugging
+ :point_right:   Jest Basics
+ :point_right:   Types of Tests
+ :point_right:   Unit Test Project
+ :point_right:   Integration Test Project
+ :point_right:   End to End Test Project
+ :point_right:   Test Driven Development
+ :point_right:   How to know what to Test
+ :point_right:   Jest with ES6 Modules
+ :point_right:   Math Solver Test Walkthrough
+ :point_right:   Minesweeper Test Introduction
+ :point_right:   Minesweeper Test Walkthrough
 
 
 
 # DAY 14 Security:
 
-- [] NPM Audit
-- [] Cross Site Scripting
-- [] Sanitize User Input
-- [] All Your Code Is Public
-- [] Never Trust The Client
-- [] Cookies
-- [] Weather App Project
+ :point_right:   NPM Audit
+ :point_right:   Cross Site Scripting
+ :point_right:   Sanitize User Input
+ :point_right:   All Your Code Is Public
+ :point_right:   Never Trust The Client
+ :point_right:   Cookies
+ :point_right:   Weather App Project
 
 
 
 # DAY 15 Clean Code:
 
-- [] Clean Code Basics
-- [] Code Order
-- [] When To Use Comments
-- [] Coupling And Cohesion
-- [] Facade Pattern
-- [] Guard Clauses
-- [] Composition Vs Inheritance
-- [] Don’t Repeat Yourself
-- [] Color Game Introduction
-- [] Color Game Walkthrough
+ :point_right:   Clean Code Basics
+ :point_right:   Code Order
+ :point_right:   When To Use Comments
+ :point_right:   Coupling And Cohesion
+ :point_right:   Facade Pattern
+ :point_right:   Guard Clauses
+ :point_right:   Composition Vs Inheritance
+ :point_right:   Don’t Repeat Yourself
+ :point_right:   Color Game Introduction
+ :point_right:   Color Game Walkthrough
