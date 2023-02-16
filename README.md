@@ -1,6 +1,6 @@
-# 15-Days-of-Javascript
+# 15 Days of Javascript
 
-![15 Days of Javascript](/assets/js.jpg)
+
 
 ## This is a complete Javascript Roadmap to make you a Complete Javascript Developer from  :writing_hand:  Basics To Advanced :rocket: in 15 Days :date:	
 
