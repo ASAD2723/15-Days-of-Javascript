@@ -1,8 +1,15 @@
 # 15-Days-of-Javascript
 
-## This is a complete Javascript Roadmap to make you a Complete Javascript Developer from Basics To Advanced in 15 Days
+## This is a complete Javascript Roadmap to make you a Complete Javascript Developer from  :writing_hand:  Basics To Advanced :rocket: in 15 Days :date:	
+
+
+*This whole Roadmap has been inspired by [Web Dev Simplified](https://javascriptsimplified.com/) :desktop_computer:	 new Javascript Course*
+
+
 
 > **This are the basics of Javascript Fundamentals and are _extremely_ important**
+
+
 
 # DAY 1
 
