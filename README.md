@@ -8,7 +8,7 @@
 
 ## Basic Variables
 
- - [] First Variable
+[] First Variable
  - [] Number Type
  - [] String Type
  - [] Boolean Type
