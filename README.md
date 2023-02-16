@@ -7,7 +7,7 @@
 
 
 
-> **This are the basics of Javascript Fundamentals and are _extremely_ important**
+## This are the basics of Javascript Fundamentals and are extremely important
 
 
 
@@ -88,10 +88,8 @@
 -  :point_right:  Recursion
 -  :point_right:  Short Circuit Evaluation
 -  :point_right:  Midi Piano
--  :point_right:  Quiz App Introduction
--  :point_right:  Quiz App Walkthrough
--  :point_right:  Form Validation Introduction
--  :point_right:  Form Validation Walkthrough
+-  :point_right:  Create a Quiz App **PROJECT**
+-  :point_right:  Form Validations
 
 
 # DAY 6 Asynchronous Code:
@@ -109,9 +107,8 @@
 -  :point_right:  Event Delegation
 -  :point_right:  Browser Storage
 -  :point_right:  Advanced Todo List
--  :point_right:  Expand Collapse Introduction
--  :point_right:  Expand Collapse Walkthrough
--  :point_right:  Google Maps Clone
+-  :point_right:  Expand Collapse
+-  :point_right:  Google Maps Clone **PROJECT**
 
 
 # DAY 8 Modules/Bundlers:
@@ -121,13 +118,14 @@
 -  :point_right:  NPM
 -  :point_right:  Parcel
 -  :point_right:  Date Picker
--  :point_right:  Shopping Cart
+-  :point_right:  Shopping Cart **PROJECT**
 
 
 
 
 
-> **This are the Advanced Toppics of_Javascript_**
+## Below are the Advance Topics of Javascript
+
 
 
 # DAY 9 Advanced Features:
@@ -146,8 +144,7 @@
 -  :point_right:  Bind
 -  :point_right:  Call And Apply
 -  :point_right:  Minesweeper Project
--  :point_right:  Math Solver Introduction
--  :point_right:  Math Solver Walkthrough
+-  :point_right:  Math Solver **PROJECT**
 
 
 # DAY 10 Using Future Javascript:
@@ -168,8 +165,7 @@
 -  :point_right:  Class Inheritance
 -  :point_right:  Public, Private, And Protected Properties
 -  :point_right:  ATM CLI Project
--  :point_right:  Calculator Project Introduction
--  :point_right:  Calculator Project Walkthrough
+-  :point_right:  Calculator **PROJECT**
 
 
 # DAY 12 Functional Programming:
@@ -195,9 +191,6 @@
 -  :point_right:  Test Driven Development
 -  :point_right:  How to know what to Test
 -  :point_right:  Jest with ES6 Modules
--  :point_right:  Math Solver Test Walkthrough
--  :point_right:  Minesweeper Test Introduction
--  :point_right:  Minesweeper Test Walkthrough
 
 
 
@@ -223,5 +216,7 @@
 -  :point_right:  Guard Clauses
 -  :point_right:  Composition Vs Inheritance
 -  :point_right:  Don’t Repeat Yourself
--  :point_right:  Color Game Introduction
--  :point_right:  Color Game Walkthrough
+-  :point_right:  Color Game **PROJECT**
+
+
+
